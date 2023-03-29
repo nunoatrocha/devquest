@@ -1,0 +1,7 @@
+.container1 li:nth-child(odd) {
+    color: red;
+}
+.container2 li::marker {
+    color: blue;
+    font-size: 30px;
+}

@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+}
+.elemento {
+  color: rgb(0, 0, 0);
+  width: 250px;
+  height: 250px;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.elemento-estatico {
+  position: static;
+  background-color: rgb(7, 101, 184);
+}
+.elemento-relatico {
+  position: relative;
+  background-color: brown;
+  left: 100px;
+}
+.elemento-abosulo {
+  position: absolute;
+  background-color: rgb(21, 170, 2);
+  left: 150px;
+}
+.elemento-relativo-filho {
+  position: relative;
+  background-color: blue;
+}
+.elemento-relativo-pai {
+  position: absolute;
+  background-color: yellow;
+}

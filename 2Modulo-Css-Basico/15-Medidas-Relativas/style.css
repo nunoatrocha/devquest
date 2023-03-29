@@ -1,0 +1,20 @@
+html {
+    background-color: rgb(189, 187, 187);
+    font-size: 32px;
+}
+body {
+    background-color: blueviolet;
+    border: 2px solid rgb(5, 247, 86);
+    width: 50%;
+}
+.pai{
+    background-color: #ea80fc;
+    border: 40px solid red;
+    width: 50%;
+    margin: 10px;
+}
+
+.filha{
+    background-color: #1de9b6;
+    width: 50%;
+}

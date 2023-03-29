@@ -1,0 +1,14 @@
+/* p:first-child {
+    color: red;
+}
+p:last-child {
+    color: blue
+    ;
+} */
+
+p:not(.padrao) {
+    color: blue;
+}
+p:nth-child(odd) {
+    font-size: 30px;
+}

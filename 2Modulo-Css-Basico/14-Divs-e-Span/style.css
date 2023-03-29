@@ -1,0 +1,25 @@
+
+.titulo{
+    background-color: grey;
+    padding: 5px;
+    border: solid;
+    border-color: black;
+}
+
+.produto{
+    background-color: gold;
+    border: solid;
+    border: 2px;
+    border-color: black;
+}
+
+.produto h2{
+    font-size: 40px;
+    color: brown;
+}
+
+.paragrafo{
+    background-color: gold;
+    padding: 40px;
+    border: solid 2px;
+}

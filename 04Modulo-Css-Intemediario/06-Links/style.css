@@ -1,0 +1,10 @@
+a {
+  cursor: wait;
+}
+a:visited {
+  color: rgb(236, 150, 79);
+}
+a:hover {
+  color: rgb(72, 255, 0);
+  background-color: black
+}

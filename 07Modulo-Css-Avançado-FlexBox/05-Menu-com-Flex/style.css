@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+.menu {
+    display: flex;
+    gap: 20px;
+}
+@media (max-width:425px) {
+    .logo {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .menu {
+        display: block;
+        text-align: center;
+        margin: top 20px;;
+    }
+    .menu li {
+        margin-left: 0;
+    }
+    nav {
+        width: 100%;
+        text-align: center;
+    }
+}

@@ -1,0 +1,24 @@
+body {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: white;
+}
+.container {
+  position: relative;
+  background-color: rgb(172, 170, 170);
+  height: 300px;
+  margin-bottom: 20px;
+}
+.texto-centralizado-1 {
+  background-color: orange;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  line-height: 250px;
+}
+.texto-centralizado-2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} 

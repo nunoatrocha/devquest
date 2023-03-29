@@ -1,0 +1,19 @@
+/* #descricao_play, #descricao_Xbox {
+    background-color: orange;
+} */
+
+.tituloPagina{
+    background-color: gray;
+    border-style: double;
+    border-width: 10px;
+}
+
+.descricao_produto {
+    background-color: rgb(10, 241, 22);
+    color: rgb(250, 4, 45);
+}
+
+.promocao{
+    border: solid 20px;
+}
+
