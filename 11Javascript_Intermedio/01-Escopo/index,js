@@ -1,0 +1,4 @@
+function fala(){
+  console.log('Olá Nuno')
+}
+fala();
